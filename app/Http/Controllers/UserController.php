@@ -35,7 +35,7 @@ class UserController extends Controller
         return view('users.create',compact('roles'));
     }
 
-    /**
+    /**qqqq
      * Store a newly created resource in storage.
      *
      * @param  \Illuminate\Http\Request  $request
